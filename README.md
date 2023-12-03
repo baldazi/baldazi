@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">Lazyness, Impatience & Hubris. 🖖</h3>
+<h3 align="center">Lazyness, Impatience & Hubris.</h3>
 
 
 - 🌱 I’m currently learning: more about front-end web development, including HTML, CSS, and JavaScript, as well as exploring different mobile app development frameworks.
