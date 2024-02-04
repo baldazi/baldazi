@@ -12,7 +12,7 @@
 
 - 📫 You can reach me at [contact@baldazi.com](https://baldazi.com/contact/)
 
-<!-- GRS (Light Mode) -->
+<!-- GRS (Light Mode) #from @qwerty541  -->
 <div align="center"> 
   <a href="https://github.com/baldazi#gh-light-mode-only">
     <img
