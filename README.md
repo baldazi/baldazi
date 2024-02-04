@@ -11,3 +11,5 @@
 - 💬 Ask me about: anything related to DSA`(data structures and Algorithms)` web or mobile development, as well as my interests in cinema, video games, and football.
 
 - 📫 You can reach me at [contact@baldazi.com](https://baldazi.com/contact/)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baldazi&show_icons=true&theme=dracula)
