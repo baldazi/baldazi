@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">Lazyness, Impatience & Hubris.</h3>
-
 
 - 🌱I'm currently learning about graph theory, interaction networks, and queueing theory
 
