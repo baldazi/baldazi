@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 
-- 🌱I'm currently learning about graph theory, interaction networks, and queueing theory
+- 🌱 I'm currently learning about modern web technologies, effective data flow management, and best practices for creating sleek and functional UIs.
 
 - 👯 I’m looking to collaborate on: any projects related to web or mobile development, especially those with a focus on social impact or community engagement.
 
