@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-- 📫 You can reach me at [contact@baldazi.com](https://baldazi.com/contact/)
-
 <!-- GRS (Light Mode) #from @qwerty541  -->
 <div align="center"> 
   <a href="https://github.com/baldazi#gh-light-mode-only">
